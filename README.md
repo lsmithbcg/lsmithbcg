@@ -1,5 +1,5 @@
 # 🔧 SAFe + AI Enablement at Ford Motor Company  
-**Role:** SAFe Lead | Prompt Engineer  
+**Role:** SAFe Lead | AI Strategist 
 **Client:** Ford Motor Company  
 **Agency:** Advantage Technical Inc.  
 **Location:** Southfield, MI  
