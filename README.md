@@ -3,7 +3,7 @@
 **Client:** Ford Motor Company  
 **Agency:** Advantage Technical Inc.  
 **Location:** Southfield, MI  
-**Duration:** June 2024 – Present  
+**Duration:** June 2024 – May 13, 2025 
 
 ## 🚀 Overview  
 As a SAFe Lead and Scrum expert supporting Ford’s Global Engine Control Fuel & Oil and Exhaust teams, I led the enterprise-scale adoption of SAFe practices. Through strategic coaching and integration of AI (LLMs), I modernized Agile workflows, improved delivery speed by 30%, and helped engineering teams deliver high-quality engine control features with greater efficiency.
